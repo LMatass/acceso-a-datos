@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<registre_alumnes>
+    <alumnes codi_alumne="1">
+        <nom_alumne>Juanma</nom_alumne>
+        <curs>1</curs>
+        <any_naixement>1989</any_naixement>
+        <colegi>cide</colegi>
+    </alumnes>
+    <alumnes codi_alumne="2">
+        <nom_alumne>Lluc</nom_alumne>
+        <curs>2do</curs>
+        <any_naixement>2001</any_naixement>
+        <colegi>cide</colegi>
+    </alumnes>
+    <alumnes codi_alumne="3">
+        <nom_alumne>Gustavo</nom_alumne>
+        <curs>3ero</curs>
+        <any_naixement>1987</any_naixement>
+        <colegi>Santa Monica</colegi>
+    </alumnes>
+    <alumnes codi_alumne="7">
+        <nom_alumne>Tolo</nom_alumne>
+        <curs>4to</curs>
+        <any_naixement>1999</any_naixement>
+        <colegi>Santa monica</colegi>
+    </alumnes>
+    <alumnes codi_alumne="9">
+        <nom_alumne>Patrick</nom_alumne>
+        <curs>2do</curs>
+        <any_naixement>2001</any_naixement>
+        <colegi>cide</colegi>
+    </alumnes>
+    <alumnes codi_alumne="10">
+        <nom_alumne>pep</nom_alumne>
+        <curs>1</curs>
+        <any_naixement>2</any_naixement>
+        <colegi>3</colegi>
+    </alumnes>
+</registre_alumnes>
+
